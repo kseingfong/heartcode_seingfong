@@ -13,8 +13,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    border-style: dotted;
-    background-color: rgba(0, 0, 0, 0.356)
+    background-color: rgba(0, 0, 0, 0.65);
+    padding: 10px 10px
    
 }
 
@@ -30,7 +30,7 @@
     
     padding-left: 50px;
     padding-top: 30px;
-    padding-bottom: 40px;
+    padding-bottom: 65px;
 
 }
 
@@ -50,8 +50,43 @@
     padding-bottom: 325px;
 }
 
+.button1{
+
+    padding-left: 50px;
+}
+
+.button2{
+
+    padding-left: 50px;
+}
 
 
+.buttonh {
+    background-color: rgba(0, 0, 0, 0.65); 
+    color: rgb(255, 255, 255); 
+    padding: 20px 35px;
+    border: 2px solid  rgb(148, 175, 216);
+}
 
+.buttonh:hover {
+    background-color: rgb(148, 175, 216);
+    color: rgb(0, 0, 0);
+}
+
+.buttonhe {
+    background-color: rgba(0, 0, 0, 0.65); 
+    color: rgb(255, 255, 255); 
+    padding: 20px 35px;
+    border: 2px solid  rgb(204, 255, 238);
+}
+
+.buttonhe:hover {
+    background-color: rgb(204, 255, 238);
+    color: rgb(0, 0, 0);
+}
+
+.thumbnail {
+    border: 0px;
+}
 
 
